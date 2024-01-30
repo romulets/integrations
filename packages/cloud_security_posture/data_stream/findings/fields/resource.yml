@@ -9,3 +9,5 @@
       type: keyword
     - name: sub_type
       type: keyword
+    - name: extension
+      type: keyword
